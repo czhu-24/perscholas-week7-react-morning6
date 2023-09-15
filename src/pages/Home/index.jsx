@@ -1,5 +1,5 @@
 import React from 'react'
-import HouseDisplay from './HouseDisplay'
+import HouseDisplay from '../../components/HouseDisplay'
 
 const Home = ({ houses }) => {
 	return (
